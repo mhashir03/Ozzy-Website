@@ -56,3 +56,7 @@ For more information about Ozzy or to collaborate on the project, please reach o
 ---
 
 © 2025 Ozzy. All rights reserved.
+
+## Contributors
+Hashir, Mustafa, Nilesh.
+
