@@ -6,6 +6,10 @@
 
 Ozzy is an innovative voice assistance application designed to help users with speech difficulties communicate more effectively using advanced AI technology to clarify spoken words. This project was created for the **HackSLU 2025** hackathon at Saint Louis University.
 
+## Visit Our Website
+
+**The Ozzy website is live at [www.useozzy.com](https://www.useozzy.com)!**
+
 ## Purpose of this Website
 
 This website serves as the official promotional landing page for the Ozzy application, providing:
@@ -30,43 +34,16 @@ This website serves as the official promotional landing page for the Ozzy applic
 - **Framer Motion**: Animation library for React
 - **Lucide Icons**: Beautiful, consistent icon set
 
-## Getting Started
-
-### Prerequisites
-
-- Node.js 18.0 or newer
-- npm or yarn
-
-### Installation
-
-1. Clone the repository
-```bash
-git clone https://github.com/mhashir03/Ozzy-Website.git
-cd Ozzy-Website
-```
-
-2. Install dependencies
-```bash
-npm install
-# or
-yarn install
-```
-
-3. Run the development server
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the website
-
 ## Project Structure
 
 - `src/app/components`: UI components organized by section
 - `public/images`: Static images including the Ozzy logo
 - `src/app/lib`: Utility functions
 - `src/app/globals.css`: Global styles including Tailwind directives
+
+## Development
+
+For those interested in contributing to this project, please visit our GitHub repository at [https://github.com/mhashir03/Ozzy-Website](https://github.com/mhashir03/Ozzy-Website) for setup instructions.
 
 ## HackSLU 2025
 
