@@ -1,36 +1,81 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Ozzy - Voice Assistance for Enhanced Communication
+
+![Ozzy Logo](public/images/ozzy-logo.png)
+
+## About Ozzy
+
+Ozzy is an innovative voice assistance application designed to help users with speech difficulties communicate more effectively using advanced AI technology to clarify spoken words. This project was created for the **HackSLU 2025** hackathon at Saint Louis University.
+
+## Purpose of this Website
+
+This website serves as the official promotional landing page for the Ozzy application, providing:
+
+- Information about Ozzy's key features and capabilities
+- Step-by-step explanation of how the technology works
+- App download links (coming soon)
+- Email signup for launch notifications
+
+## Features Showcased
+
+- **Speech Recognition & Clarification**: Convert speech to text and enhance clarity for better understanding
+- **Text-to-Speech Playback**: High-quality voice synthesis for clear communication
+- **Accessibility-First Design**: Intuitive interface designed for users of all abilities
+- **Coming Soon**: Conversation history, user profiles, and multi-language support
+
+## Technologies Used
+
+- **Next.js**: React framework for server-rendered applications
+- **TypeScript**: Type-safe JavaScript
+- **Tailwind CSS**: Utility-first CSS framework
+- **Framer Motion**: Animation library for React
+- **Lucide Icons**: Beautiful, consistent icon set
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
 
+- Node.js 18.0 or newer
+- npm or yarn
+
+### Installation
+
+1. Clone the repository
+```bash
+git clone https://github.com/mhashir03/Ozzy-Website.git
+cd Ozzy-Website
+```
+
+2. Install dependencies
+```bash
+npm install
+# or
+yarn install
+```
+
+3. Run the development server
 ```bash
 npm run dev
 # or
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the website
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Project Structure
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- `src/app/components`: UI components organized by section
+- `public/images`: Static images including the Ozzy logo
+- `src/app/lib`: Utility functions
+- `src/app/globals.css`: Global styles including Tailwind directives
 
-## Learn More
+## HackSLU 2025
 
-To learn more about Next.js, take a look at the following resources:
+This project is our submission for HackSLU 2025, where we aim to showcase how advanced AI technology can be leveraged to create practical solutions for real-world accessibility challenges.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Contact
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+For more information about Ozzy or to collaborate on the project, please reach out through the email signup form on our website.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+© 2025 Ozzy. All rights reserved.
